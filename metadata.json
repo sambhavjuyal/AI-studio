@@ -1,0 +1,6 @@
+{
+  "name": "AuraLedger: Cost-of-Living & Inflation AI Copilot",
+  "description": "Simple budget calculator that tells you exactly how much you can spend every day and finds easy ways to make extra money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
